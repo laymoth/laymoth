@@ -2,6 +2,6 @@
 
 <p align="left"><b>「</b></p>
   <p align="center">
-  <samp>Hi there 👋 this is Ali.<br></samp>
+  <samp>wlrd.xecute(me);<br></samp>
   </p>
 <p align="right"><b>」</b></p>
