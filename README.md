@@ -2,7 +2,6 @@
 
 <p align="left"><b>「</b></p>
   <p align="center">
-  <samp>Hi there 👋 this is Ali.<br>
-        Unpassionate developer from Earth.</samp>
+  <samp>Hi there 👋 this is Ali.<br></samp>
   </p>
 <p align="right"><b>」</b></p>
