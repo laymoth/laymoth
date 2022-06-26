@@ -1,0 +1,20 @@
+name: Latest Posts
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: 5 5 * * 1
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "6"
+          feed_list: https://laymoth.github.io/posts/index.xml
+          committer_email: 41898282+github-actions[bot]@users.noreply.github.com
+          committer_username: GitHub Actions[Bot]
