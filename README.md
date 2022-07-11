@@ -2,7 +2,7 @@
 <p align="left"><b>「</b></p>
   <details align="center">
 <summary>
-   <samp>\x57\x68\x79\x2E</samp>
+   <samp>0x0</samp>
   </summary>
   <br />
   <p align="center">
