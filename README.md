@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/laymoth"><img width="100%" src="src/2.png" /></a></p>
+<p align="center"><a href="https://github.com/laymoth"><img width="100%" src="src/image.png" /></a></p>
 <p align="left"><b>「</b></p>
   <details align="center">
 <summary>
