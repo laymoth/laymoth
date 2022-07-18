@@ -18,10 +18,10 @@
 
 **📝 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Macam Macam Percabangan Dan Perulangan](https://laymoth.github.io/macam-macam-percabangan-dan-perulangan/)
-- [Tiga Algoritma Dasar](https://laymoth.github.io/tiga-algoritma-dasar/)
-- [Pohon Biner](https://laymoth.github.io/pohon-biner/)
-- [Fungsi](https://laymoth.github.io/fungsi/)
-- [Relasi](https://laymoth.github.io/relasi/)
-- [Aljabar Boolean](https://laymoth.github.io/aljabar-boolean/)
+- [Macam Macam Percabangan Dan Perulangan](https://laymoth.dev/macam-macam-percabangan-dan-perulangan/)
+- [Tiga Algoritma Dasar](https://laymoth.dev/tiga-algoritma-dasar/)
+- [Pohon Biner](https://laymoth.dev/pohon-biner/)
+- [Fungsi](https://laymoth.dev/fungsi/)
+- [Relasi](https://laymoth.dev/relasi/)
+- [Aljabar Boolean](https://laymoth.dev/aljabar-boolean/)
 <!-- BLOG-POST-LIST:END -->
