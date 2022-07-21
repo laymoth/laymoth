@@ -29,12 +29,12 @@
     <tr>
       <td>
       <a href="#">
-      <img height="150px" align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=laymoth&count_private=true&show_icons=true&hide_border=true&theme=tokyonight"/>
+      <img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=laymoth&count_private=true&show_icons=true&hide_border=true&theme=tokyonight"/>
       </a>
       </td>
       <td>
       <a href="#">
-      <img height="150px" align="center" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=laymoth&theme=github-dark-blue&hide_border=true&theme=tokyonight"/>
+      <img align="center" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=laymoth&theme=github-dark-blue&hide_border=true&theme=tokyonight"/>
       </a>
       </td>
     </tr>
