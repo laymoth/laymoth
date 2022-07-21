@@ -8,6 +8,7 @@
    <br>
    <br>
    <a href="https://laymoth.dev"><img src="https://img.shields.io/badge/laymoth.dev-1e1e2e?style=for-the-badge&logo=About.me&logoColor=cba6f7"></a>
+   <p align="right"><b>」</b></p>
   </summary>
   <br />
 <p align="center">
@@ -41,4 +42,3 @@
 </div>
 </details>
 </div>
-<p align="right"><b>」</b></p>
