@@ -4,7 +4,7 @@
 <summary>
    <strong>I have <del>no</del> <ins><i>special</i></ins> talent.</strong>
    <br>
-   <samp> I know I may have done some bad things, but I'm not a bad person. </samp>
+   <i><sub> I know I may have done some bad things, but I'm not a bad person. </sub></i>
    <br>
    <br>
    <a href="https://laymoth.dev"><img src="https://img.shields.io/badge/laymoth.dev-1e1e2e?style=for-the-badge&logo=About.me&logoColor=cba6f7"></a>
